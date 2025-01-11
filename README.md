@@ -5,6 +5,7 @@ Hey there, I'm Wagiha!
 
 ##  💻 What I'm Up To
 -- **ASL Object Detection Model**: Developing a computer vision system to detect and classify ASL gestures in real-time using machine learning techniques, enabling seamless gesture recognition through camera integration.
+
 -- **Kiln Detection Machine Learning Model:** Conducting machine learning research to detect charcoal kilns using satellite imagery and YOLOv8, complemented by data analysis in Python, R, and STATA to evaluate land rights, forest degradation, and conservation outcomes for the USAID/Zambia EKNA Activity.
 
 ##  🌟 About Me
