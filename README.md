@@ -16,7 +16,7 @@ Hey there, I'm Wagiha!
 - **Major:** Computer Science, Cognitive Science 
 
 ---
-**Tech Stack**  
+## 🌟 **Tech Stack**  
 
 ### **Programming Languages:**  
 - **Front-End:** HTML, CSS, JavaScript, React, Bootstrap, Flask  
