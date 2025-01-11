@@ -4,7 +4,7 @@ Hey there, I'm Wagiha!
 📍 **New York City, NY** | 📧 **[wagiham@sas.upenn.edu](mailto:wagiham@sas.upenn.edu)** | 📱 **(727) 320-4628**
 
 ## **About Me**
---Passionate about AI/ML applications, UX design, and data science, she combines technical expertise with a creative mindset to solve complex problems. My work spans diverse fields, including machine learning research, software development, and user experience design. I have experience in front-end and back-end development, as well as advanced machine learning, Wagiha is committed to leveraging technology for meaningful impact.
+-- My name is Wagiha Mariam. I'm currently an undergraduate student at the University of Pennsylvania. I'm passionate about AI/ML applications, UX design, and data science, she combines technical expertise with a creative mindset to solve complex problems. My work spans diverse fields, including machine learning research, software development, and user experience design. I have experience in front-end and back-end development, as well as advanced machine learning, Wagiha is committed to leveraging technology for meaningful impact.
 
 ## 🎓 **Education**  
 **University of Pennsylvania** (*May 2026*)  
