@@ -1,7 +1,7 @@
 
 Hey there, I'm Wagiha!
 
-📍 **New York City, NY** | 📧 **[wagiham@sas.upenn.edu](mailto:wagiham@sas.upenn.edu)** |  **[Linkedin](https://www.linkedin.com/in/wagiha-m-0947181b4/)**
+📍 **New York City, NY** | 📧 **[wagiham@sas.upenn.edu](mailto:wagiham@sas.upenn.edu)** |  💼  **[Linkedin](https://www.linkedin.com/in/wagiha-m-0947181b4/)**
 
 ##  💻 What I'm Up To
 -- **ASL Object Detection Model**: Developing a computer vision system to detect and classify ASL gestures in real-time using machine learning techniques, enabling seamless gesture recognition through camera integration.
