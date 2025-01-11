@@ -1,5 +1,5 @@
 
-#Hey there, I'm Wagiha Mariam.
+Hey there, I'm Wagiha!
 
 📍 **New York City, NY** | 📧 **[wagiham@sas.upenn.edu](mailto:wagiham@sas.upenn.edu)** | 📱 **(727) 320-4628**
 
@@ -9,27 +9,6 @@
 ## 🎓 **Education**  
 **University of Pennsylvania** (*May 2026*)  
 - **Major:** Computer Science, Cognitive Science 
-
----
-
-
-
-## 🛠️ **Projects**  
-
-### **ASL Object Detection** *(Ongoing)*  
-- Developing a **computer vision model** for real-time American Sign Language recognition, connecting to camera inputs on Mac for high-accuracy gesture detection.  
-
-### **Twitter Customer Service Saliency ML Model**  
-- Built a pipeline using **BERT**, **Word2Vec**, and **TF-IDF**, achieving **0.75 ROC AUC** in extracting key insights from conversations.  
-
-### **Stock Market Prediction System**  
-- Trained a **Random Forest Classifier** on historical S&P 500 data, achieving a 57% precision in predicting stock movements.  
-
-### **Amazon Review Sentiment Analysis**  
-- Designed a neural network to analyze Amazon book reviews, achieving a **99.92% accuracy** in training.  
-
-### **Free Our Vote Website**  
-- Redesigned a nonprofit website using **Figma**, enhancing accessibility and user experience, leading to increased engagement.  
 
 ---
 
