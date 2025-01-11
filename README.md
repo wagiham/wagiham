@@ -16,7 +16,6 @@ Hey there, I'm Wagiha!
 - **Major:** Computer Science, Cognitive Science 
 
 ---
-
 ## 🌟 **Tech Stack**  
 
 ### **Programming Languages:**  
@@ -47,6 +46,7 @@ Hey there, I'm Wagiha!
   ![Power BI](https://img.shields.io/badge/Power_BI-1E1E1E?style=for-the-badge&logo=powerbi&logoColor=F2C811)  
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+
 
 
 ## 📫 **Contact Me**  
