@@ -7,7 +7,8 @@ Hey there, I'm Wagiha!
 🌐 **[Check out my coding portfolio](https://wagiham.github.io/final-coding-portfolio/)**
 
 ##  💻 What I'm Up To
--- **ASL Object Detection Model**: Developing a computer vision system to detect and classify ASL gestures in real-time using machine learning techniques, enabling seamless gesture recognition through camera integration.
+-- **Generative Architecture with Real-Time Hand Tracking:**
+An interactive system built in TouchDesigner using MediaPipe to generate dynamic architectural visuals based on real-time hand gestures.
 
 -- **Product Design Portfolio:** Conducting user research, wireframing in Figma, and building interactive case studies in Framer to showcase end-to-end design thinking.
 
