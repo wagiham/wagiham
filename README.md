@@ -4,7 +4,7 @@ Hey there, I'm Wagiha!
 📍 **New York City, NY** | 📧 **[wagiham@sas.upenn.edu](mailto:wagiham@sas.upenn.edu)** |  💼  **[Linkedin](https://www.linkedin.com/in/wagiha-m-0947181b4/)**
 
 
-🌐 **[Check out my coding portfolio](https://wagiham.github.io/final-coding-portfolio/)**
+🌐 **[Check out my coding portfolio](https://wagiham.github.io/Wagiha-Coding-Portfolio/)**
 
 ##  💻 What I'm Up To
 -- **Generative Architecture with Real-Time Hand Tracking:**
