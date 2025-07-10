@@ -11,10 +11,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-**🔭 [Three.js Cosmic Modes](https://github.com/wagiham/threejs-cosmic-modes)**  
-GPU-accelerated 3D space simulation with toggleable galaxy, nebula, and black hole modes using custom GLSL shaders.
+## 🚀 Currently Working on 
 
 **🧠 Generative Architecture**  
 Real-time hand tracking system in TouchDesigner + MediaPipe that generates dynamic visuals based on gestures.
@@ -59,8 +56,8 @@ I bring a hybrid background in **AI/ML**, **UX design**, and **data science**, a
 ## 🎓 Education
 
 **University of Pennsylvania**  
-*B.A. Cognitive Science, B.A. Computer Science*  
-📍 May 2026 · Minor in Data Science  
+*Cognitive Science & Computer Science
+📍 May 2026 
 
 ---
 
