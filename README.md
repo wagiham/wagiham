@@ -21,7 +21,7 @@ UX research, wireframing, and high-fidelity Framer prototypes built to explore u
 
 ---
 
-## 💡 About Me
+## About Me
 
 I'm Wagiha — a designer, developer, and researcher passionate about using technology to solve real-world problems.
 
@@ -29,7 +29,7 @@ I bring a hybrid background in **AI/ML**, **UX design**, and **data science**, a
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
