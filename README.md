@@ -11,11 +11,13 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Wagiha" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Fractal_tree.gif" width="380" />
+
+I’m Wagiha — I design, build, and research things that sit between creativity and computation.  
+From decision-making models using Reddit data to interactive 3D experiences.
 
 ---
-
-## Tech Stack
+Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -37,8 +39,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
-
-## 🎓 Education
+ Education
 
 **University of Pennsylvania**  
 *Cognitive Science & Computer Science
@@ -46,7 +47,7 @@
 
 ---
 
-## 🔗 Let’s Connect
+Let’s Connect
 
 - ✉️ [Email me](mailto:wagiham@sas.upenn.edu)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/wagiha-m-0947181b4/)  
