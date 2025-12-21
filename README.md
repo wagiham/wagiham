@@ -11,11 +11,11 @@
 
 ---
 
-## About Me
+Hi, I’m Wagiha 👋  
 
-I'm Wagiha — a designer, developer, and researcher passionate about using technology to solve real-world problems.
-
-I bring a hybrid background in **AI/ML**, **UX design**, and **data science**, and love building things that feel human: from decision-making models using Reddit data to interactive 3D experiences. My mission is to bridge creativity with computation for systems that inform, empower, and inspire.
+- designer / developer / researcher  
+- working across **AI/ML**, **UX**, and **data science**  
+- interested in decision-making, human-centered systems, and interactive experiences
 
 ---
 
