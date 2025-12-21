@@ -15,30 +15,6 @@ Hi there I'm Wagiha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 I work across **AI/ML**, **UX design**, and **data science**, and I enjoy building things that feel human. I’ve worked on projects ranging from decision-making models using Reddit data to interactive 3D experiences that explore how people interact with systems.
 
 I’m most interested in work that sits between creativity and computation, especially when it helps people understand, navigate, or make sense of complex information.
-
-
----
-Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
-**Front-End:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Back-End & Tools:**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
 ---
  Education
 
