@@ -10,11 +10,7 @@
 </p>
 
 ---
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Fractal_tree.gif" width="380" />
-
-I’m Wagiha — I design, build, and research things that sit between creativity and computation.  
-From decision-making models using Reddit data to interactive 3D experiences.
+Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ---
 Tech Stack
