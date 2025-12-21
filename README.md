@@ -15,6 +15,7 @@ Hi there I'm Wagiha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 I work across **AI/ML**, **UX design**, and **data science**, and I enjoy building things that feel human. I’ve worked on projects ranging from decision-making models using Reddit data to interactive 3D experiences that explore how people interact with systems.
 
 I’m most interested in work that sits between creativity and computation, especially when it helps people understand, navigate, or make sense of complex information.
+
 ---
  Education
 
