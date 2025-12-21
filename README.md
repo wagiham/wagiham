@@ -11,16 +11,6 @@
 
 ---
 
-## 🚀 Currently Working on 
-
-**🧠 Generative Architecture**  
-Real-time hand tracking system in TouchDesigner + MediaPipe that generates dynamic visuals based on gestures.
-
-**🎨 Product Design Portfolio**  
-UX research, wireframing, and high-fidelity Framer prototypes built to explore user behavior and accessibility in civic tech.
-
----
-
 ## About Me
 
 I'm Wagiha — a designer, developer, and researcher passionate about using technology to solve real-world problems.
