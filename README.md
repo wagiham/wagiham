@@ -11,11 +11,7 @@
 
 ---
 
-Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
-- designer / developer / researcher  
-- working across **AI/ML**, **UX**, and **data science**  
-- interested in decision-making, human-centered systems, and interactive experiences
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Wagiha" />
 
 ---
 
