@@ -30,7 +30,6 @@ Let’s Connect
 - ✉️ [Email me](mailto:wagiham@sas.upenn.edu)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/wagiha-m-0947181b4/)  
 - 🌐 [Portfolio Website](https://wagiham.github.io/personal-portfolio/)
-- 🎨 [Product Design Portfolio](https://true-guest-801090.framer.app/)
 
 ---
 
