@@ -20,6 +20,10 @@ I’m most interested in work that sits between creativity and computation, espe
 
 🔗 [Email](mailto:wagiham@sas.upenn.edu) · [LinkedIn](https://www.linkedin.com/in/wagiha-m-0947181b4/) · [Portfolio](https://wagiham.github.io/personal-portfolio/)
 
+<p align="center">
+  ✦ Let’s connect — <a href="mailto:wagiham@sas.upenn.edu">Email</a> · <a href="https://www.linkedin.com/in/wagiha-m-0947181b4/">LinkedIn</a> · <a href="https://wagiham.github.io/personal-portfolio/">Portfolio</a> ✦
+</p>
+
 
 
 <p align="center"><i>Thanks for stopping by!˚⟡˖ ࣪</i></p>
