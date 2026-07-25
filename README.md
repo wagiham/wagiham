@@ -16,22 +16,11 @@ I work across **AI/ML**, **UX design**, and **data science**, and I enjoy buildi
 
 I’m most interested in work that sits between creativity and computation, especially when it helps people understand, navigate, or make sense of complex information.
 
----
- Education
+🎓 **University of Pennsylvania** · Cognitive Science & Computer Science · Class of 2026
 
-**University of Pennsylvania**  
-*Cognitive Science & Computer Science
-📍 May 2026 
+🔗 [Email](mailto:wagiham@sas.upenn.edu) · [LinkedIn](https://www.linkedin.com/in/wagiha-m-0947181b4/) · [Portfolio](https://wagiham.github.io/personal-portfolio/)
 
----
 
-Let’s Connect
-
-- ✉️ [Email me](mailto:wagiham@sas.upenn.edu)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/wagiha-m-0947181b4/)  
-- 🌐 [Portfolio Website](https://wagiham.github.io/personal-portfolio/)
-
----
 
 <p align="center"><i>Thanks for stopping by!˚⟡˖ ࣪</i></p>
 
