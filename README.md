@@ -1,15 +1,4 @@
-<h1 align="center">Hi, I'm Wagiha</h1>
-<p align="center">
-  Cognitive Science & CS @ UPenn · NYC Based · Creative Technologist
-</p>
 
-<p align="center">
-  <a href="mailto:wagiham@sas.upenn.edu"><img src="https://img.shields.io/badge/email-wagiham@sas.upenn.edu-%230078D4?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://www.linkedin.com/in/wagiha-m-0947181b4/"><img src="https://img.shields.io/badge/LinkedIn-Profile-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://wagiham.github.io/Wagiha-Coding-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-View_Project-%231E1E1E?style=flat-square&logo=githubpages" alt="portfolio"/></a>
-</p>
-
----
 Hi there I'm Wagiha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 I work across **AI/ML**, **UX design**, and **data science**, and I enjoy building things that feel human. I’ve worked on projects ranging from decision-making models using Reddit data to interactive 3D experiences that explore how people interact with systems.
